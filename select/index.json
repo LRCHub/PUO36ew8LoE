@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "海闊天空",
+  "base_artist": "BEYOND",
+  "createdAt": "2026-03-01T10:29:27.696954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "海闊天空 (大馬版28/05/93) (Live)",
+      "artist": "Beyond",
+      "has_synced": true,
+      "path": "select/01_海闊天空_(大馬版28_05_93)_(Live)_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "海闊天空",
+      "artist": "Beyond",
+      "has_synced": true,
+      "path": "select/02_海闊天空_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "海闊天空",
+      "artist": "Beyond",
+      "has_synced": true,
+      "path": "select/03_海闊天空_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "海闊天空",
+      "artist": "G.E.M.",
+      "has_synced": true,
+      "path": "select/04_海闊天空_G.E.M..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "海闊天空 - Infinite",
+      "artist": "G.E.M.",
+      "has_synced": true,
+      "path": "select/05_海闊天空_-_Infinite_G.E.M..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "海闊天空 (Introduced by Beyond) (Live)",
+      "artist": "Beyond",
+      "has_synced": true,
+      "path": "select/06_海闊天空_(Introduced_by_Beyond)_(Live)_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "海闊天空 - Sky (Edit)",
+      "artist": "Beyond",
+      "has_synced": true,
+      "path": "select/07_海闊天空_-_Sky_(Edit)_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "海闊天空",
+      "artist": "Beyond",
+      "has_synced": true,
+      "path": "select/08_海闊天空_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "海闊天空 - 香港紅磡演唱會",
+      "artist": "Jam Hsiao",
+      "has_synced": true,
+      "path": "select/09_海闊天空_-_香港紅磡演唱會_Jam_Hsiao.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "海闊天空",
+      "artist": "Beyond",
+      "has_synced": true,
+      "path": "select/10_海闊天空_Beyond.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海闊天空",
+      "artist": "Beyond",
+      "has_synced": false,
+      "path": "select/pl_01_海闊天空_Beyond.txt"
+    }
+  ]
+}
